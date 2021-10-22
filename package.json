@@ -1,0 +1,14 @@
+{
+  "name": "cooking-kafkas",
+  "version": "1.0.0",
+  "description": "Testing kafka with node.js",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Telles",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
